@@ -31,7 +31,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
               <Link href="/help-center">Contact us?</Link> Either the issue will be resolved or it will cease to exise. Yes, we are that good.
             </p>
           </BasicSection> */}
-          <BasicSection imageUrl="/premium_member.svg" title="Be a premium member." overTitle="Want to create news?" reversed>
+          <BasicSection imageUrl="/premium_member.svg" title="Can we help you with that." overTitle="Want to create news?" reversed>
             <p>
               Let us empower you to provide information that is so vital and give voice to the articles you wish to publish.{' '}
               <strong>Be rewarded</strong>. forr the most valuable tool of 21st centuary. Information

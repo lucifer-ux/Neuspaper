@@ -15,7 +15,7 @@ export default function WaveCta() {
       <img src = {WaveImage}/>
       <CtaWrapper>
         <Container>
-          <Title>Want to be amongst the ellite members and experience one month free membership?</Title>
+          <Title>Be amongst the ellite members join and get information that matters</Title>
           <CustomButtonGroup>
             <Button onClick={() => setIsModalOpened(true)}>
               Sign Up for early access <span>&rarr;</span>
